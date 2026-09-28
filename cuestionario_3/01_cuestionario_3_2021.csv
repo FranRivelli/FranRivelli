@@ -1,0 +1,21 @@
+﻿Posición;Pregunta;Veces repetida;Respuesta correcta
+1;Una clase es abstracta si:;1;Todas las opciones son correctas.
+2;A través de la Herencia los objetos pueden:;1;Compartir y extender su comportamiento.
+3;El mensaje new de las colecciones:;1;Se utiliza sin parámetros en las colecciones dinámicas.
+4;¿Cuál de las siguientes colecciones no es indexada?;1;Todas las opciones son incorrectas.
+5;¿Cuándo se usa la expresión self subclassResponsibility?;1;Para indicar que el método es abstracto y debe ser redefinido en la clase derivada.
+6;¿Cuál es la colección natural que utilizaría si quiero hacer un conjunto ordenado manteniendo el orden ascendente entre sus elementos?;1;Utilizar en forma directa una SortedCollection.
+7;El mensaje collect: de una colección:;1;Retorna una nueva colección conteniendo el resultado de las sucesivas evaluaciones del bloque.
+8;El mensaje select: de una colección:;1;Retorna una nueva colección conteniendo todos aquellos elementos que hicieron que unBloque evaluara en true.
+9;Los siguientes grupos de colecciones se consideran estáticas:;1;Array, String, Symbol.
+10;Conversiones entre colecciones:;1;Son posibles si se especifica el mensaje as(Coleccion).
+11;Dos objetos son polimórficos respecto de un conjunto de mensajes si:;1;Ambos son capaces de responder a todo el conjunto de mensajes.
+12;La colección OrderedCollection se caracteriza por ser:;1;Todas las respuestas son correctas.
+13;En la Herencia:;1;Los objetos heredan los atributos y el comportamiento de todas las clases a las que pertenecen.
+14;La colección Bag se caracteriza por ser: [variante A — opciones: Admitir duplicados / Dinámica / Colección desordenada / Todas las respuestas son correctas] (SIMILAR a variante B);1;Todas las respuestas son correctas.
+15;¿Qué tipos de polimorfismos se pueden implementar?;1;Paramétrico, de Sobrecarga y de Subtipado.
+16;El mensaje reject: de una colección:;1;Retorna una nueva colección conteniendo todos aquellos elementos que hicieron que unBloque evaluara en false.
+17;En una colección Array, ¿se puede incrementar la cantidad de elementos de la colección?;1;No, porque es de tamaño fijo y no se puede incrementarla manteniendo el nombre y la estructura inicial.
+18;La colección Bag se caracteriza por ser: [variante B — opciones: Estática / Colección indexada / No admite duplicados / Todas las respuestas son incorrectas] (SIMILAR a variante A);1;Todas las respuestas son incorrectas.
+19;Disponer de objetos polimórficos que sean intercambiables le otorga al lenguaje que lo implementa:;1;Mayor Flexibilidad en el desarrollo.
+20;El concepto de Herencia implica que:;1;Se pueden definir/crear objetos como tipos especializados de objetos preexistentes.
